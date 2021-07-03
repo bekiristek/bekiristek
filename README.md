@@ -1,11 +1,14 @@
 <a href="https://twitter.com/bekir_istek">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Bekir İstek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bekiristek/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bekir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31a3rb27oyikxbiat3eazwmepg4i">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Bekir's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://github.com/bekiristek">
+  <img align="left" alt="Bekir's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bekiristek.bekiristek)
@@ -20,10 +23,12 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
   
   
 - 💼 Java Software Developer
+- 🌱 I’m currently learning Java, Flutter, Javascript
+- 💬 Talk to me about Java, OOP, Mobile Development
+- 📫 Reach me at **bekir.istek@gmail.com**
 
 
-**languages and tools:**  
-
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -33,23 +38,12 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **my skills:**
-<!--START_SECTION:waka-->
-```text
-Java         ████████████████   70.99 % 
-Flutter      ███▓░░░░░░░░░░░░   14.46 % 
-JavaScript   ▓░░░░░░░░░░░░░░░   02.10 % 
-Nodejs       ▒░░░░░░░░░░░░░░░   01.11 % 
-MongoDB      ░░░░░░░░░░░░░░░░  00.33 % 
-```
-<!--END_SECTION:waka-->
 
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
+🏆  7 Karma Points                   
+✅  Completed 23 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
