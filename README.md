@@ -15,7 +15,7 @@
 hi, i'm [Bekir İstek](https://bekiristek.com),
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bekiristek/bekiristek/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Java Software Developer
 
