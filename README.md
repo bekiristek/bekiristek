@@ -18,9 +18,6 @@
 <br />
 
 hi, i'm [Bekir İstek](https://bekiristek.com),
-
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bekiristek/bekiristek/main/code.gif?raw=true" width="500" height="630" />
   
   ### 🧐 More About Me:
   
@@ -30,10 +27,12 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
 - 📫 Reach me at **bekir.istek@gmail.com**
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/15gG2rQjjNJFevIXL9o76UC3sVVHpUJSY/view?usp=sharing)
 
+ 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2> 
 
-
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bekiristek/bekiristek/main/code.gif?raw=true" width="500" height="320" />
+ 
 **Back-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
