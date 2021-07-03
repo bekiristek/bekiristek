@@ -17,6 +17,8 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bekiristek/bekiristek/main/code.gif?raw=true" width="500" height="320" />
   
+  
+  
 - 💼 Java Software Developer
 
 
@@ -24,11 +26,9 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -36,11 +36,11 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
 📊 **my skills:**
 <!--START_SECTION:waka-->
 ```text
-Java          ████████████████████▒░░░░   81.99 % 
-Flutter       ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-JSON          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-CSS           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-HTML          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Java             ████████████████   70.99 % 
+Flutter          ███▓░░░░░░░░░░░░   14.46 % 
+JavaScript       ▓░░░░░░░░░░░░░░░   02.10 % 
+Nodejs           ▒░░░░░░░░░░░░░░░   01.11 % 
+MongoDB          ░░░░░░░░░░░░░░░░  00.33 % 
 ```
 <!--END_SECTION:waka-->
 
