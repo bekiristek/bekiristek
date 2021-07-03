@@ -20,38 +20,59 @@
 hi, i'm [Bekir İstek](https://bekiristek.com),
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bekiristek/bekiristek/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bekiristek/bekiristek/main/code.gif?raw=true" width="500" height="630" />
   
-  
+  ### 🧐 More About Me:
   
 - 💼 Java Software Developer
-- 🌱 I’m currently learning Java, Flutter, Javascript
+- 🌱 I’m currently learning Flutter, Nodejs, Cybersecurity
 - 💬 Talk to me about Java, OOP, Mobile Development
 - 📫 Reach me at **bekir.istek@gmail.com**
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/15gG2rQjjNJFevIXL9o76UC3sVVHpUJSY/view?usp=sharing)
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2> 
+
+
+**Back-end**
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+**Front-end**
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
+**Databases**
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+**Other**
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<!--START_SECTION:waka-->
+**I'm a Night 🦉**
+```text
+
+🌞 Morning    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+🌆 Daytime    114 commits    ███████░░░░░░░░░░░░░░░░░░   29.31% 
+🌃 Evening    195 commits    ████████████░░░░░░░░░░░░░   50.13% 
+🌙 Night      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28%
+
+```
+<!--END_SECTION:waka-->
 
 
 
-🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7 Karma Points                   
-✅  Completed 23 tasks so far           
-⏳  Longest streak is 10 days
-
-
-
-<code>📈 my github status</code>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 <!-- TODO-IST:END -->
 
   <div align=center>
@@ -59,10 +80,6 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
       <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekiristek&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-
-
-
-
 
  <!--📈 my github stats
 
