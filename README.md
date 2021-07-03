@@ -1,3 +1,5 @@
+### Hi there, I'm [Bekir!](https://github.com/bekiristek) 👋
+
 <a href="https://twitter.com/bekir_istek">
   <img align="left" alt="Bekir İstek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -40,17 +42,31 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
 
 
 
+
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7 Karma Points                   
 ✅  Completed 23 tasks so far           
 ⏳  Longest streak is 10 days
+
+
+
+<code>📈 my github status</code>
 <!-- TODO-IST:END -->
 
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekiristek&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
 
-📈 my github stats
+
+
+
+
+ <!--📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bekiristek&show_icons=true&theme=gotham" alt="bekiristek" />
-
+-->
 
 
