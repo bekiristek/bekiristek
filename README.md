@@ -25,7 +25,7 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
 - 🌱 I’m currently learning Flutter, Nodejs, Cybersecurity
 - 💬 Talk to me about Java, OOP, Mobile Development
 - 📫 Reach me at **bekir.istek@gmail.com**
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/15gG2rQjjNJFevIXL9o76UC3sVVHpUJSY/view?usp=sharing)
+- 📝 Checkout my [Resume](https://bekiristek.com/resume/bekir-istek-resume.pdf)
 
  
 
