@@ -1,4 +1,4 @@
-### Hi there, I'm [Bekir!](https://github.com/bekiristek) 👋
+### Hi there, I'm [Bekir!](https://bekiristek.com/) 👋
 
 <a href="https://twitter.com/bekir_istek">
   <img align="left" alt="Bekir İstek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
