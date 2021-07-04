@@ -1,15 +1,15 @@
 ### Hi there, I'm [Bekir!](https://bekiristek.com/) 👋
 
-<a href="https://twitter.com/bekir_istek">
+<a href="https://twitter.com/bekir_istek" target="_blank">
   <img align="left" alt="Bekir İstek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/bekiristek/">
+<a href="https://www.linkedin.com/in/bekiristek/" target="_blank">
   <img align="left" alt="Bekir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31a3rb27oyikxbiat3eazwmepg4i">
+<a href="https://open.spotify.com/user/31a3rb27oyikxbiat3eazwmepg4i" target="_blank">
   <img align="left" alt="Bekir's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://github.com/bekiristek">
+<a href="https://github.com/bekiristek" target="_blank">
   <img align="left" alt="Bekir's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
