@@ -21,9 +21,10 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
   
   ### 🧐 More About Me:
   
-- 💼 Java Software Developer
-- 🌱 I’m currently learning Flutter, Nodejs, Cybersecurity
+- 💻 Java Software Developer
+- 🌱 I’m currently learning DevOps, Nodejs, Cybersecurity
 - 💬 Talk to me about Java, OOP, Mobile Development
+- :hourglass_flowing_sand:  Exploring AWS & Microsoft Azure
 - 📫 Reach me at **bekir.istek@gmail.com**
 - 📝 Checkout my [Resume](https://bekiristek.com/resume/bekir-istek-resume.pdf)
 
