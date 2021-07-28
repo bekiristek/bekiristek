@@ -23,7 +23,7 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
   
 - 💻 Java Software Developer
 - 📝 I'm currently learning Vuejs, Nodejs, Cybersecurity 
-- 🔎 I'm exploring AWS & Microsoft Azure
+- ⌛ I'm exploring AWS & Microsoft Azure
 - 💬 Talk to me about Java, OOP, Mobile Development
 - 📫 Reach me at **bekir.istek@gmail.com**
 - 📃 Checkout my [Resume](https://bekiristek.com/resume/bekir-istek-resume.pdf)
