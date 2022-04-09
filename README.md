@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/bekiristek/" target="_blank">
   <img align="left" alt="Bekir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31a3rb27oyikxbiat3eazwmepg4i" target="_blank">
-  <img align="left" alt="Bekir's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://github.com/bekiristek" target="_blank">
   <img align="left" alt="Bekir's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
