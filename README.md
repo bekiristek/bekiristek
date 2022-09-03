@@ -19,9 +19,9 @@ hi, i'm [Bekir İstek](https://bekiristek.com),
   ### 🧐 More About Me:
   
 - 💻 Java Software Developer
-- 📝 I'm currently learning Vuejs, Nodejs, Cybersecurity 
+- 📝 I’m currently learning Go, React and Quarkus
 - ⌛ I'm exploring AWS & Microsoft Azure
-- 💬 Talk to me about Java, OOP, Mobile Development
+- 💬 Talk to me about Java, OOP, Design Patterns(GoF)
 - 📫 Reach me at  **admin@bekiristek.com**
 - 📃 Checkout my [Resume](https://bekiristek.com/resume/bekir-istek-resume.pdf)
 
