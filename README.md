@@ -10,12 +10,10 @@
   <img align="left" alt="Bekir's GitHub" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bekiristek.bekiristek)
+![](https://komarev.com/ghpvc/?username=bekiristek)
 
 <br />
 
-hi, i'm [Bekir İstek](https://bekiristek.com),
-  
   ### 🧐 More About Me:
   
 - 💻 Java Software Developer
