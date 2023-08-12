@@ -1,13 +1,13 @@
 ### Hi there, I'm [Bekir!](https://bekiristek.com/) 👋
 
 <a href="https://twitter.com/bekir_istek" target="_blank">
-  <img align="left" alt="Bekir İstek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Bekir İstek | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png" />
 </a>
 <a href="https://www.linkedin.com/in/bekiristek/" target="_blank">
-  <img align="left" alt="Bekir's LinkedIN" width="22px" src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg"/>
+  <img align="left" alt="Bekir's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png"/>
 </a>
 <a href="https://github.com/bekiristek" target="_blank">
-  <img align="left" alt="Bekir's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Bekir's GitHub" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bekiristek.bekiristek)
